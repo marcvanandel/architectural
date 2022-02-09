@@ -13,22 +13,24 @@
 ## General Data Infrastructure
 
 - Overheid.nl
-  - [Uniforme ProductnamenLijst (UPL)](http://standaarden.overheid.nl/upl)
-  - [TNO Data Ecosystemen](https://www.tno.nl/nl/aandachtsgebieden/informatie-communicatie-technologie/expertisegroepen/data-ecosystems/)
   - [Digitale VertrouwensInfrastructuur](https://ditss.nl/projecten/dvi/) (DVI)
   - [iBestuur: Op weg naar een digitale samenleving](https://ibestuur.nl/podium/op-weg-naar-een-digitale-samenleving) (met link to [TNO Data Sharing Infrastructure](https://www.tno.nl/en/focus-areas/information-communication-technology/roadmaps/data-sharing/))
+  - [TNO Data Ecosystemen](https://www.tno.nl/nl/aandachtsgebieden/informatie-communicatie-technologie/expertisegroepen/data-ecosystems/)
+  - [Uniforme ProductnamenLijst (UPL)](http://standaarden.overheid.nl/upl)
 - Europe
   - [European Blockchain Services Infrastructure (ESBI)](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/EBSI) 
   - [GAIA-X](https://www.gaia-x.eu/) ([gitlab](https://gitlab.com/gaia-x) | [gxHub NL](https://gaia-x.nl/) | [gxFederationServices](https://www.gxfs.de/))
 - Other
+  - [DTPR](https://dtpr.helpfulplaces.com/)
   - [FIWARE.org](https://www.fiware.org/)
   - [FreedomLab](https://freedomlab.org/reports/)
-  - [DTPR](https://dtpr.helpfulplaces.com/)
-  - [Solid Project](https://solidproject.org/)
-    - [Developer Workshop](https://workshop.inrupt.com/)
-  - [Post-Platforms Initiative](https://postplatforms.org/)
+  - [International Data Spaces](https://internationaldataspaces.org/) (IDS)
+  - [iSHARE](https://www.ishareworks.org/en)
   - [OceanProtocol](https://oceanprotocol.com/)
+  - [Post-Platforms Initiative](https://postplatforms.org/)
+  - [Project Liberty](https://www.projectliberty.io/)
   - [Protocol Labs](https://protocol.ai/) (with links to many other interesting projects!)
+  - [Solid Project](https://solidproject.org/) ([Developer Workshop](https://workshop.inrupt.com/))
 - News sites
   - [Computable about Danish vs Dutch Government Digitisation](https://www.computable.nl/artikel/nieuws/overheid/7193688/250449/pwc-leer-van-deense-digitale-overheid.html) ([link](https://www.rijksoverheid.nl/documenten/rapporten/2021/04/30/quick-scan-vergelijking-governance-digitale-overheid) to official report)
 
@@ -36,6 +38,10 @@
 
 - Overheid.nl
   - [Nieuws: Nederland en Duitsland gaan samenwerken aan ditigal identity](https://www.rijksoverheid.nl/actueel/nieuws/2021/09/23/nederland-gaat-met-duitsland-werken-aan-digitale-identiteit) (oa Coalition of the Willing)
+  - [Eindrapport Nederlandse Self-Sovereign Identity ecosysteem (SSI)](https://www.rijksoverheid.nl/documenten/rapporten/2021/10/01/eindrapport-nederlandse-self-sovereign-identity-ecosysteem-ssi)
+- Other
+  - [Decentralized IDentity (DID)](https://www.w3.org/TR/did-core/) (W3C)
+  - [#GoedID](https://goed-id.org/) (van Waag)
 
 ## Event-thinking
 
