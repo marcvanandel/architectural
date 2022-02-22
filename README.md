@@ -20,6 +20,7 @@
 - Europe
   - [European Blockchain Services Infrastructure (ESBI)](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/EBSI) 
   - [GAIA-X](https://www.gaia-x.eu/) ([gitlab](https://gitlab.com/gaia-x) | [gxHub NL](https://gaia-x.nl/) | [gxFederationServices](https://www.gxfs.de/))
+  - [Vlaamse datakluizen](https://mycsn.be/2021/11/18/solid-zet-omgaan-met-persoonsgegevens-op-zn-kop-datakluis/)
 - Other
   - [DTPR](https://dtpr.helpfulplaces.com/)
   - [FIWARE.org](https://www.fiware.org/)
