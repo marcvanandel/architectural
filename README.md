@@ -17,6 +17,7 @@
   - [iBestuur: Op weg naar een digitale samenleving](https://ibestuur.nl/podium/op-weg-naar-een-digitale-samenleving) (met link to [TNO Data Sharing Infrastructure](https://www.tno.nl/en/focus-areas/information-communication-technology/roadmaps/data-sharing/))
   - [TNO Data Ecosystemen](https://www.tno.nl/nl/aandachtsgebieden/informatie-communicatie-technologie/expertisegroepen/data-ecosystems/)
   - [Uniforme ProductnamenLijst (UPL)](http://standaarden.overheid.nl/upl)
+  - [Nederlandse Geo-informatie Infrastructuur (NGII)](https://docs.geostandaarden.nl/ngii/wpungii/)
 - Europe
   - [European Blockchain Services Infrastructure (ESBI)](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/EBSI) 
   - [GAIA-X](https://www.gaia-x.eu/) ([gitlab](https://gitlab.com/gaia-x) | [gxHub NL](https://gaia-x.nl/) | [gxFederationServices](https://www.gxfs.de/))
