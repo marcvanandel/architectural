@@ -33,6 +33,7 @@
   - [Project Liberty](https://www.projectliberty.io/)
   - [Protocol Labs](https://protocol.ai/) (with links to many other interesting projects!)
   - [Solid Project](https://solidproject.org/) ([Developer Workshop](https://workshop.inrupt.com/))
+  - [DigiCampus](https://digicampus.tech/)
 - News sites
   - [Computable about Danish vs Dutch Government Digitisation](https://www.computable.nl/artikel/nieuws/overheid/7193688/250449/pwc-leer-van-deense-digitale-overheid.html) ([link](https://www.rijksoverheid.nl/documenten/rapporten/2021/04/30/quick-scan-vergelijking-governance-digitale-overheid) to official report)
 
