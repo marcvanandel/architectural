@@ -22,7 +22,9 @@
   - [European Blockchain Services Infrastructure (ESBI)](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/EBSI) 
   - [GAIA-X](https://www.gaia-x.eu/) ([gitlab](https://gitlab.com/gaia-x) | [gxHub NL](https://gaia-x.nl/) | [gxFederationServices](https://www.gxfs.de/))
   - [Vlaamse datakluizen](https://mycsn.be/2021/11/18/solid-zet-omgaan-met-persoonsgegevens-op-zn-kop-datakluis/)
+- Blockchain Stuff
 - Other
+  - [DigiCampus](https://digicampus.tech/)
   - [DTPR](https://dtpr.helpfulplaces.com/)
   - [FIWARE.org](https://www.fiware.org/)
   - [FreedomLab](https://freedomlab.org/reports/)
@@ -30,10 +32,12 @@
   - [iSHARE](https://www.ishareworks.org/en)
   - [OceanProtocol](https://oceanprotocol.com/)
   - [Post-Platforms Initiative](https://postplatforms.org/)
-  - [Project Liberty](https://www.projectliberty.io/)
+  - [Project Liberty](https://www.projectliberty.io/) (especially [blog #235](https://forums.projectliberty.io/t/introducing-mrc-a-polkadot-parachain-for-scaled-messaging/235))
+    - [Polkadot](https://polkadot.network/) (decentralized messaging)
+    - [Substrate_](https://substrate.io/)
+    - The open source [Decentralized Social Networking Protocol](https://www.dsnp.org/)
   - [Protocol Labs](https://protocol.ai/) (with links to many other interesting projects!)
   - [Solid Project](https://solidproject.org/) ([Developer Workshop](https://workshop.inrupt.com/))
-  - [DigiCampus](https://digicampus.tech/)
 - News sites
   - [Computable about Danish vs Dutch Government Digitisation](https://www.computable.nl/artikel/nieuws/overheid/7193688/250449/pwc-leer-van-deense-digitale-overheid.html) ([link](https://www.rijksoverheid.nl/documenten/rapporten/2021/04/30/quick-scan-vergelijking-governance-digitale-overheid) to official report)
 
