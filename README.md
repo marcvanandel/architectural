@@ -22,7 +22,7 @@
   - [European Blockchain Services Infrastructure (ESBI)](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/EBSI) 
   - [GAIA-X](https://www.gaia-x.eu/) ([gitlab](https://gitlab.com/gaia-x) | [gxHub NL](https://gaia-x.nl/) | [gxFederationServices](https://www.gxfs.de/))
   - [Vlaamse datakluizen](https://mycsn.be/2021/11/18/solid-zet-omgaan-met-persoonsgegevens-op-zn-kop-datakluis/)
-  - European Digital Identity (EDI) | [Architecture](https://futurium.ec.europa.eu/sites/default/files/2022-02/Outline%20final.pdf)
+  - European Digital Identity (EDI) | [ARF](https://futurium.ec.europa.eu/sites/default/files/2022-02/Outline%20final.pdf) (Architecture and Reference Framework)
 - Other
   - [DigiCampus](https://digicampus.tech/)
   - [DTPR](https://dtpr.helpfulplaces.com/)
