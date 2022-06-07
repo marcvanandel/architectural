@@ -18,6 +18,7 @@
   - [TNO Data Ecosystemen](https://www.tno.nl/nl/aandachtsgebieden/informatie-communicatie-technologie/expertisegroepen/data-ecosystems/)
   - [Uniforme ProductnamenLijst (UPL)](http://standaarden.overheid.nl/upl)
   - [Nederlandse Geo-informatie Infrastructuur (NGII)](https://docs.geostandaarden.nl/ngii/wpungii/)
+  - [NL GOV profiel Cloud Events](https://vng-realisatie.github.io/NL-GOV-profile-for-CloudEvents/) (uit [Noticatie Servcices](https://samenwerken.pleio.nl/groups/view/1fde4814-ec84-49bd-a67a-935eb712e7a2/notificatieservices))
 - Europe
   - [European Blockchain Services Infrastructure (ESBI)](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/EBSI) 
   - [GAIA-X](https://www.gaia-x.eu/) ([gitlab](https://gitlab.com/gaia-x) | [gxHub NL](https://gaia-x.nl/) | [gxFederationServices](https://www.gxfs.de/))
