@@ -54,3 +54,8 @@
 ## Event-thinking
 
 - [Event-Sourcing: Lessons learned from the industry (Elsevier)](https://www.sciencedirect.com/science/article/pii/S0164121221000674)
+
+## Ethics & Philosophy
+
+- [The Cognitive Bias Codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
+
