@@ -39,6 +39,7 @@
     - The open source [Decentralized Social Networking Protocol](https://www.dsnp.org/)
   - [Protocol Labs](https://protocol.ai/) (with links to many other interesting projects!)
   - [Solid Project](https://solidproject.org/) ([Developer Workshop](https://workshop.inrupt.com/)) | See my [Solid Quest](https://github.com/marcvanandel/solid-quest) also
+    - [GraphMetrix Startup](https://graphmetrix.com/) (_tip!_)
   - [Verida Decentralized Storage](https://developers.verida.io/docs/concepts/data-storage/) (in web3 space)
 - News sites
   - [Computable about Danish vs Dutch Government Digitisation](https://www.computable.nl/artikel/nieuws/overheid/7193688/250449/pwc-leer-van-deense-digitale-overheid.html) ([link](https://www.rijksoverheid.nl/documenten/rapporten/2021/04/30/quick-scan-vergelijking-governance-digitale-overheid) to official report)
