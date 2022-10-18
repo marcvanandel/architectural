@@ -58,6 +58,7 @@
 ## Event-thinking
 
 - [Event-Sourcing: Lessons learned from the industry (Elsevier)](https://www.sciencedirect.com/science/article/pii/S0164121221000674)
+- [Oskar Dudycz - event-driven.io](https://event-driven.io/en/)
 
 ## Ethics & Philosophy
 
