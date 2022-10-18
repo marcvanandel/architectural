@@ -23,7 +23,6 @@
   - [European Blockchain Services Infrastructure (ESBI)](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/EBSI) 
   - [GAIA-X](https://www.gaia-x.eu/) ([gitlab](https://gitlab.com/gaia-x) | [gxHub NL](https://gaia-x.nl/) | [gxFederationServices](https://www.gxfs.de/))
   - [Vlaamse datakluizen](https://mycsn.be/2021/11/18/solid-zet-omgaan-met-persoonsgegevens-op-zn-kop-datakluis/)
-  - [European Digital Identity (EDI) NL Initiative](https://edi.pleio.nl) | [ARF](https://futurium.ec.europa.eu/sites/default/files/2022-02/Outline%20final.pdf) (Architecture and Reference Framework)
   - [Open & Agile Smart Cities](https://oascities.org/) with [MIMs](https://mims.oascities.org/) (Minimal Interoperability Mechanisms)
 - Other
   - [DigiCampus](https://digicampus.tech/)
@@ -50,6 +49,7 @@
 - Overheid.nl
   - [Nieuws: Nederland en Duitsland gaan samenwerken aan ditigal identity](https://www.rijksoverheid.nl/actueel/nieuws/2021/09/23/nederland-gaat-met-duitsland-werken-aan-digitale-identiteit) (oa Coalition of the Willing)
   - [Eindrapport Nederlandse Self-Sovereign Identity ecosysteem (SSI)](https://www.rijksoverheid.nl/documenten/rapporten/2021/10/01/eindrapport-nederlandse-self-sovereign-identity-ecosysteem-ssi)
+  - [European Digital Identity (EDI) NL Initiative](https://edi.pleio.nl) | [ARF](https://futurium.ec.europa.eu/sites/default/files/2022-02/Outline%20final.pdf) (Architecture and Reference Framework)
 - Other
   - [Decentralized IDentity (DID)](https://www.w3.org/TR/did-core/) (W3C)
   - [#GoedID](https://goed-id.org/) (van Waag)
