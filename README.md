@@ -12,6 +12,10 @@
 - Other
   - [OpenChain (Project) License Compliance](https://www.openchainproject.org/) (to support collaboration and interoperability between open source projects and vender software in the supply chain ... or in general?)
 
+## Datastrategie
+
+- [Tada](https://tada.city/) - Data strategie Amsterdam
+
 ## General Data Infrastructure
 
 - Overheid.nl
