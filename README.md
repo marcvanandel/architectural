@@ -61,6 +61,7 @@
   - [Decentralized IDentity (DID)](https://www.w3.org/TR/did-core/) (W3C)
   - [#GoedID](https://goed-id.org/) (van Waag)
   - [KERI](https://keri.one/) - _very promising!!_
+  - [Open Wallet Foundation](https://openwallet.foundation/) - A Linux Foundation Project !!
 
 ## Event-thinking
 
