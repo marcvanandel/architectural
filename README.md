@@ -67,6 +67,8 @@
 
 - [Event-Sourcing: Lessons learned from the industry (Elsevier)](https://www.sciencedirect.com/science/article/pii/S0164121221000674)
 - [Oskar Dudycz - event-driven.io](https://event-driven.io/en/)
+- [Linked Data Event Streams](https://semiceu.github.io/LinkedDataEventStreams/) ([Joinup SEMIC Project LDES](https://joinup.ec.europa.eu/collection/semic-support-centre/linked-data-event-streams-ldes))
+- [Linked Data Notifications](https://www.eventnotifications.net/)
 
 ## Ethics & Philosophy
 
